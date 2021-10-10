@@ -1,0 +1,18 @@
+{
+    "name": "crew-bit/php-cs-fixer-rules",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Crewbit\\PhpCsFixer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hamaco",
+            "email": "h@crewbit.co.jp"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
