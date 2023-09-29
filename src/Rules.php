@@ -122,6 +122,7 @@ class Rules
         'phpdoc_no_access' => true,
         'phpdoc_no_package' => true,
         'phpdoc_no_useless_inheritdoc' => true,
+        'phpdoc_order' => ['order'=>['param', 'return', 'throws']],
         'phpdoc_return_self_reference' => true,
         'phpdoc_scalar' => true,
         'phpdoc_separation' => true,
