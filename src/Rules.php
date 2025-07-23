@@ -37,6 +37,7 @@ class Rules
         'general_phpdoc_annotation_remove' => ['annotations'=>['class','package','author']],
         'general_phpdoc_tag_rename' => true,
         'global_namespace_import' => true,
+        'heredoc_indentation' => ['indentation' => 'same_as_start'],
         'implode_call' => true,
         'include' => true,
         'increment_style' => ['style'=>'post'],
