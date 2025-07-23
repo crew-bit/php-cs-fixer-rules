@@ -37,7 +37,6 @@ class Rules
         'general_phpdoc_annotation_remove' => ['annotations'=>['class','package','author']],
         'general_phpdoc_tag_rename' => true,
         'global_namespace_import' => true,
-        'heredoc_to_nowdoc' => true,
         'implode_call' => true,
         'include' => true,
         'increment_style' => ['style'=>'post'],
